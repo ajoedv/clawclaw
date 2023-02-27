@@ -1,0 +1,20 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+/* remove default style and add box sizing*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* body general style */
+body {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    background-color: #111;
+    color: #fff;
+}
+
+
+
