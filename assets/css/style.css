@@ -175,3 +175,9 @@ span {
     display: flex;
     justify-content: center;
 }
+
+.icon {
+    font-size: 30px;
+    color: #fdc501;
+    margin: 15px 0;
+}
