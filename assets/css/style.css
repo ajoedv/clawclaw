@@ -39,6 +39,7 @@ span {
 #logo {
     width: 10rem;
     height: auto;
+    margin-left: 30px;
 }
 
 .list-items a {
@@ -48,8 +49,9 @@ span {
 
 .top-nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    margin-bottom: -60px;
 }
 
 .list a:hover{
@@ -63,7 +65,7 @@ span {
 
 .list-items {
     display: inline-block;
-    padding: 30px 20px;
+    padding: 30px 30px;
 }
 
 /* Header and hero image*/
@@ -75,10 +77,9 @@ span {
     background-position: right;
 }
 
-
 .hero-title {
     letter-spacing: 4px;
     bottom: 150px;
-    margin-left: 18%;
+    margin-left: 30px;
     position: absolute;
 }
