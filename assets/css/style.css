@@ -16,5 +16,14 @@ body {
     color: #fff;
 }
 
+/* Navigation*/
+#logo {
+    width: 10rem;
+    height: auto;
+}
 
+.list-items a {
+    text-decoration: none;
+    color: #fff;
+}
 
