@@ -113,3 +113,10 @@ span {
     width: 400px;
     height: 400px;
 }
+
+.about-box {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+    text-align: left;
+}
