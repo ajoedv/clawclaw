@@ -6,7 +6,7 @@
 }
 
 .hero-title h4 {
-    font-size: 1.34rem;
+    font-size: 1.3rem;
     color: #fdc501;
     padding-left: 5px;
     padding-bottom: 30px;
@@ -15,6 +15,21 @@
 .hero-title p {
     font-size: 1.5rem;
     line-height: 50px;
+}
+
+.about-text h2 {
+    font-size: 3rem;
+    padding-bottom: 10px;
+}
+
+.about-text h4 {
+    font-size: 1.1rem;
+    padding-bottom: 20px;
+}
+p {
+    font-size: 1.2rem;
+    line-height: 23px;
+    letter-spacing: 2px;
 }
 
 /* remove default style and add box sizing*/
