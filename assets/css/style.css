@@ -1,6 +1,22 @@
 /* Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
 
+.hero-title h1 {
+    font-size: 4.5rem;
+}
+
+.hero-title h4 {
+    font-size: 1.34rem;
+    color: #fdc501;
+    padding-left: 5px;
+    padding-bottom: 30px;
+} 
+
+.hero-title p {
+    font-size: 1.5rem;
+    line-height: 50px;
+}
+
 /* remove default style and add box sizing*/
 * {
     margin: 0;
@@ -57,4 +73,12 @@ span {
     background-image: url(../images/clawclaw-hero-image.avif);
     background-size: cover;
     background-position: right;
+}
+
+
+.hero-title {
+    letter-spacing: 4px;
+    bottom: 150px;
+    margin-left: 18%;
+    position: absolute;
 }
