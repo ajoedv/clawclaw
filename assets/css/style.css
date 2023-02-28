@@ -27,3 +27,18 @@ body {
     color: #fff;
 }
 
+.top-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.list-items {
+    display: inline-block;
+    padding: 30px 20px;
+}
+
