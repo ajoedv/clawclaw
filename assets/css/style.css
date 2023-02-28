@@ -136,6 +136,7 @@ span {
     background-color: #111111;
     width: 100%;
     height: 80vh;
+
 }
 
 .skill {
@@ -146,4 +147,8 @@ span {
     border-radius: 15px;
     text-align: center;
     padding: 15px;
+}
+.skills-boxes {
+    display: flex;
+    justify-content: center;
 }
