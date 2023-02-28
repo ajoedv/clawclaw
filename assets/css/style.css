@@ -137,3 +137,13 @@ span {
     width: 100%;
     height: 80vh;
 }
+
+.skill {
+    width: 250px;
+    height: 300px;
+    background-color: red;
+    margin: 10px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 15px;
+}
