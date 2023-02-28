@@ -33,6 +33,11 @@ body {
     align-items: center;
 }
 
+.list a:hover{
+    color: #fdc501;
+    border-bottom: #fdc501 solid 1px;
+}
+
 .list {
     list-style-type: none;
 }
