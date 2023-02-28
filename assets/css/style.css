@@ -22,6 +22,12 @@
     padding-bottom: 10px;
 }
 
+
+.about-text h4 {
+    font-size: 1.1rem;
+    padding-bottom: 20px;
+}
+
 .my-skills h2 {
     font-size: 3rem;
     text-align: center;
@@ -29,10 +35,11 @@
     padding-bottom: 30px;
 }
 
-.about-text h4 {
-    font-size: 1.1rem;
-    padding-bottom: 20px;
+.my-skills h3 {
+    color: #fdc501;
+    margin-bottom: 10px;
 }
+
 p {
     font-size: 1.1rem;
     line-height: 23px;
