@@ -57,15 +57,15 @@ span {
     color: #fdc501;
 }
 
-button {
-    padding: 10px;
+.button {
+    margin-top: 50px;
+}
+
+.button a {
+    padding: 10px 20px;
     border-radius: 50px;
     background-color: #fdc501;
     font-size: 1.1rem;
-    margin-top: 20px;
-}
-
-button a {
     text-decoration: none;
     color: #111111;
 }
