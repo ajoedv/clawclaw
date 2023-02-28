@@ -136,13 +136,12 @@ span {
     background-color: #111111;
     width: 100%;
     height: 80vh;
-
 }
 
 .skill {
     width: 250px;
     height: 300px;
-    background-color: red;
+    background-color: #1a191b;
     margin: 10px;
     border-radius: 15px;
     text-align: center;
