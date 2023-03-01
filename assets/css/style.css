@@ -251,3 +251,8 @@ span {
 .form {
     width: 400px;
 }
+.thanks {
+    width: 100%;
+    height: 80vh;
+    justify-content: center;
+}
