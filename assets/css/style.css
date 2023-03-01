@@ -202,9 +202,15 @@ span {
     color: #fdc501;
     margin: 15px 0;
 }
+
 /*Adopt Me*/
 #adopt-me {
     background-color: #1a191b;
     width: 100%;
     height: auto;
+}
+
+.form-box {
+    display: flex;
+    justify-content: center;
 }
