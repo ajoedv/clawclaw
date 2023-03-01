@@ -258,6 +258,11 @@ span {
     margin-top: 10px;
 }
 
+.input-button:hover {
+    background-color: #1a191b;
+    color: #fdc501;
+}
+
 .form {
     width: 400px;
 }
