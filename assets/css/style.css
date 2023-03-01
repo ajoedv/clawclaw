@@ -265,7 +265,6 @@ span {
 /*thanks*/
 .thanks {
     display: flex;
-    justify-content: center;
     align-items: center;
 
 }
@@ -275,7 +274,7 @@ span {
     width: 100%;
     height: auto;
     margin-top: 60px;
-    padding: 60px;
+    padding: 60px 0;
     text-align: center;
 }
 
@@ -329,20 +328,20 @@ span {
 /*404*/
 .wrong {
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
 .wrong-msg {
     background-color: #1a191b;
     width: 100%;
-    height: auto;
+    height: 80vh;
     margin-top: 60px;
-    padding: 60px;
+    padding: 60px 0;
     text-align: center;
 }
 
 .wrong img {
+    margin-top: 100px;
     margin-bottom: 30px;
     width: 250px;
 }
