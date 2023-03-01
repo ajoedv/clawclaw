@@ -5,11 +5,11 @@
     font-size: 4.5rem;
 }
 
-.hero-title h4 {
+.subtitle {
     font-size: 1.3rem;
     color: #fdc501;
     padding-left: 5px;
-    padding-bottom: 30px;
+    padding-bottom: 18px;
 } 
 
 .hero-title p {
