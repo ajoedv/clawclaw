@@ -236,3 +236,13 @@ span {
 .radio {
     margin-top: 10px;
 }
+
+.button {
+    padding: 10px 20px;
+    border-radius: 50px;
+    background-color: #fdc501;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 60px;
+    border: 0;
+}
