@@ -41,6 +41,15 @@
     margin-bottom: 10px;
 }
 
+.adopt-me h2 {
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    margin-top: 60px;
+
+}
+
 p {
     font-size: 1.1rem;
     line-height: 23px;
@@ -67,6 +76,7 @@ span {
 
 .button {
     margin-top: 50px;
+    margin-bottom: 30px;
 }
 
 .button a {
@@ -76,6 +86,7 @@ span {
     font-size: 1.1rem;
     text-decoration: none;
     color: #111111;
+
 }
 .button a:hover {
     background-color: #1a191b;
@@ -171,8 +182,8 @@ span {
 }
 
 .skill {
-    width: 250px;
-    height: 300px;
+    width: 350px;
+    height: auto;
     background-color: #1a191b;
     margin: 10px;
     border-radius: 15px;
