@@ -306,7 +306,17 @@ span {
 }
 
 .footer-items img {
-    width: 10rem;
+    width: 250px;
     height: auto;
     margin-top: 60px;
+}
+
+.footer-items h3 {
+    margin-top: 30px;
+    font-size: 1.2rem;
+    line-height: 35px;
+    letter-spacing: 3px;
+}
+.footer-items p {
+    margin-top: 20px;
 }
