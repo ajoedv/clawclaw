@@ -57,6 +57,11 @@ p {
     letter-spacing: 2px;
 }
 
+.thanks-msg h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
 /* remove default style and add box sizing*/
 * {
     margin: 0;
