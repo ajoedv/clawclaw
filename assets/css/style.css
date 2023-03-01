@@ -7,9 +7,10 @@
 
 .subtitle {
     font-size: 1.3rem;
-    color: #fdc501;
+    color: #fff;
     padding-left: 5px;
     padding-bottom: 18px;
+    font-weight: 700;
 } 
 
 .hero-title p {
