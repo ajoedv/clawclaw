@@ -486,4 +486,21 @@ span {
     .about-text p {
         font-size: 0.9rem;
     }
+
+    /* My skils*/
+    .my-skills {
+        background-color: #111111;
+        width: 100%;
+        height: auto;
+    }
+    
+    .skill {
+        width: 330px;
+        margin: 20px;
+    }
+    
+    .skills-boxes {
+        flex-wrap: wrap;
+    }
+
 }
