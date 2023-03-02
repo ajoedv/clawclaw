@@ -127,16 +127,13 @@
                     <input id="email" class="input" type="email" name="email-address" required placeholder="Enter your e-mail address">
                 </div>
                 <div>
-                    <p>Do you mind to hug me and kiss me?</p>
-                </div>
-                <div>
-                    <input id="radio-yes" class="radio" type="radio" name="kiss-hug" value="I don't mind" required>
-                    <label for="radio-yes" >I don't mind.</label>
-                </div>
-
-                <div>
-                    <input id="radio-no" class="radio" type="radio" name="kiss-hug" value="I can't" required>
-                    <label for="radio-no" >I can't</label>
+                    <label for="kiss-hug">Do you mind to hug me and kiss me?</label>
+                    <select name="kiss-hug" id="kiss-hug" class="selectbox" required>
+                        <option class="option" value="" disabled selected hidden>Select from dropdown..</option>
+                        <option class="option" value="yes">I don't mind</option>
+                        <option class="option" value="no">I can't</option>
+                        
+                    </select>
                 </div>
                 <br>
                 <div>
