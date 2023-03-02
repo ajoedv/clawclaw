@@ -362,8 +362,6 @@ span {
 @media screen and (max-width: 1180px) {
     p {
         font-size: 0.9rem;
-        line-height: 23px;
-        letter-spacing: 2px;
     }
 
     /*ABout*/
@@ -466,5 +464,26 @@ span {
         letter-spacing: 4px;
         bottom: 80px;
         margin-left: 15px;
+    }
+
+    p {
+        font-size: 1.1rem;
+    }
+
+    /*ABout*/
+    .about-box {
+        width: 340px;
+        height: 500px;
+    }
+
+    .about-text {
+        padding-top: 0px;
+        margin-bottom: -155px;
+        margin-right: 0;
+        margin-left: 5px;
+    }
+    
+    .about-text p {
+        font-size: 0.9rem;
     }
 }
