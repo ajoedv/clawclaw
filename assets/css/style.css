@@ -107,7 +107,7 @@ span {
 }
 
 /* Navigation*/
-#logo {
+.logo {
     width: 160px;
     height: 30px;
     margin-left: 30px;
@@ -447,7 +447,7 @@ span {
 @media screen and (max-width: 540px) {
 
     /* Logo & Nav */
-    #logo {
+    .logo {
         width: 192px;
         height: 34px;
         margin-top: 50px;
