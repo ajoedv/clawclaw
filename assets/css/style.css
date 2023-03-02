@@ -436,8 +436,8 @@ span {
     }
 }
 
-/* @media screen 480px */
-@media screen and (max-width: 480px) {
+/* @media screen 540px */
+@media screen and (max-width: 540px) {
 
     /* Logo & Nav */
     #logo {
@@ -517,7 +517,7 @@ span {
     }
 
     .footer-items img {
-        width: 200px;
+        width: 175px;
         margin-left: -11px;
     }
 
