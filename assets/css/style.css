@@ -439,3 +439,32 @@ span {
 }
 
 /* @media screen 480px */
+@media screen and (max-width: 480px) {
+    /* Logo & Nav */
+    #logo {
+        width: 12rem;
+        height: auto;
+        margin-top: 50px;
+        margin-left: -8px;
+    }
+
+    .top-nav {
+        flex-direction: column;
+    }
+
+    .list-items {
+        display: inline-block;
+        padding: 30px 10px;
+    }
+
+    /* Hero Title*/
+    .hero-image {
+        height: 80vh;
+    }
+
+    .hero-title {
+        letter-spacing: 4px;
+        bottom: 80px;
+        margin-left: 15px;
+    }
+}
