@@ -370,7 +370,10 @@ span {
     p {
         font-size: 0.9rem;
     }
-
+    .hero-title {
+        letter-spacing: 4px;
+        bottom: 185px;
+    }
     /*ABout*/
     .about-me {
         height: auto;
@@ -470,7 +473,7 @@ span {
 
     .hero-title {
         letter-spacing: 4px;
-        bottom: 80px;
+        bottom: 120px;
         margin-left: 15px;
     }
 
