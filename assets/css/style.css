@@ -503,4 +503,9 @@ span {
         flex-wrap: wrap;
     }
 
+    /*Adopt Me*/
+        .form {
+            width: 330px;
+        }
+    
 }
