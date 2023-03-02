@@ -554,3 +554,10 @@ span {
     }
 
 }
+
+/* @media screen  max height 480px */
+@media screen and (max-height: 480px) {
+    .hero-title {
+        bottom: 32px;
+    }
+}
