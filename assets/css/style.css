@@ -379,7 +379,7 @@ span {
     .about-box {
         width: 500px;
         height: 400px;
-        margin: 50px 5px;
+        margin: 100px 5px;
     }
 
     .about-text {
@@ -437,3 +437,5 @@ span {
         font-size: 1.2rem;
     }
 }
+
+/* @media screen 480px */
