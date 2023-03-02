@@ -553,7 +553,8 @@ span {
     /* Logo & Nav */
     .list-items {
         display: inline-block;
-        padding: 30px 5px;
+        padding: 25px 5px;
+        font-size: 13px;
     }
     .hero-title h1 {
         font-size: 2rem;
