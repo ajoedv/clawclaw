@@ -476,7 +476,7 @@ span {
 
     .hero-title {
         letter-spacing: 4px;
-        bottom: 120px;
+        bottom: 99px;
         margin-left: 15px;
     }
 
@@ -550,7 +550,7 @@ span {
         padding: 30px 5px;
     }
     .hero-title h1 {
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .about-box {
         width: 279px;
@@ -566,4 +566,12 @@ span {
     .hero-title {
         bottom: 32px;
     }
+    .hero-title h1 {
+        font-size: 2rem;
+    }
+
+    .hero-title h2 {
+        font-size: 1rem;
+    }
+    
 }
