@@ -484,6 +484,9 @@ span {
         font-size: 1.1rem;
     }
 
+    h2 {
+        font-size: 1rem;
+    }
     /*ABout*/
     .about-box {
         width: 340px;
@@ -557,7 +560,7 @@ span {
         font-size: 13px;
     }
     .hero-title h1 {
-        font-size: 2rem;
+        font-size: 3rem;
     }
     .about-box {
         width: 279px;
