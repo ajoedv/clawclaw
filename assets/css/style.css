@@ -525,5 +525,25 @@ span {
         margin-top: 30px;
         font-size: .9rem;
     }
-    
+
+}
+
+/* @media screen 360px */
+@media screen and (max-width: 360px) {
+
+    /* Logo & Nav */
+    .list-items {
+        display: inline-block;
+        padding: 30px 5px;
+    }
+    .hero-title h1 {
+        font-size: 3rem;
+    }
+    .about-box {
+        width: 279px;
+    }
+    .form {
+        width: 290px;
+    }
+
 }
