@@ -353,6 +353,11 @@ span {
 
 
 @media screen and (max-width: 1180px) {
+    p {
+        font-size: 0.9rem;
+        line-height: 23px;
+        letter-spacing: 2px;
+    }
     /*ABout*/
     .about-img {
         width: 400px;
@@ -379,6 +384,11 @@ span {
     .about-text p {
         font-size: 1.1rem;
         padding-bottom: 5px;
+    }
+
+    /* My Skills */
+    .skill {
+        width: 290px;
     }
 
 }
