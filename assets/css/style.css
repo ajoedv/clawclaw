@@ -108,7 +108,7 @@ span {
 
 /* Navigation*/
 #logo {
-    width: 10rem;
+    width: 160px;
     height: auto;
     margin-left: 30px;
 }
@@ -441,7 +441,7 @@ span {
 
     /* Logo & Nav */
     #logo {
-        width: 12rem;
+        width: 192px;
         height: auto;
         margin-top: 50px;
         margin-left: -8px;
