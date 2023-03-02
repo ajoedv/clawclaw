@@ -540,6 +540,12 @@ span {
         font-size: .9rem;
     }
 
+    /*404*/
+    .wrong img {
+        width: 280px;
+        height: 119px;
+    }
+
 }
 
 /* @media screen 360px */
