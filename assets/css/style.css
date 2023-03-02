@@ -350,3 +350,36 @@ span {
     margin-bottom: 30px;
     width: 250px;
 }
+
+
+@media screen and (max-width: 1180px) {
+    /*ABout*/
+    .about-img {
+        width: 400px;
+        height: 400px;
+    }
+    
+    .about-box {
+        width: 500px;
+        height: 400px;
+        margin: 5px;
+    }
+    
+    .about-text {
+        padding-top: 5px;
+        margin-right: 50px;
+    }
+
+    .about-text h2 {
+        font-size: 2.5rem;
+        padding-bottom: 10px;
+    }
+    
+    
+    .about-text p {
+        font-size: 1.1rem;
+        padding-bottom: 5px;
+    }
+
+}
+
