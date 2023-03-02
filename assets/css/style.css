@@ -11,7 +11,7 @@
     padding-left: 5px;
     padding-bottom: 18px;
     font-weight: 700;
-} 
+}
 
 .hero-title p {
     font-size: 1.5rem;
@@ -81,6 +81,7 @@ body {
     background-color: #111111;
     color: #fff;
 }
+
 span {
     color: #fdc501;
 }
@@ -99,6 +100,7 @@ span {
     color: #111111;
 
 }
+
 .button a:hover {
     background-color: #1a191b;
     color: #fdc501;
@@ -124,7 +126,7 @@ span {
     background-color: #000;
 }
 
-.list a:hover{
+.list a:hover {
     color: #fdc501;
     border-bottom: #fdc501 solid 1px;
 }
@@ -201,6 +203,7 @@ span {
     text-align: center;
     padding: 15px;
 }
+
 .skills-boxes {
     display: flex;
     justify-content: center;
@@ -303,6 +306,7 @@ span {
     display: flex;
     justify-content: center;
 }
+
 .social-icons a {
     color: #fdc501;
     text-decoration: none;
@@ -326,6 +330,7 @@ span {
     line-height: 35px;
     letter-spacing: 3px;
 }
+
 .footer-items p {
     margin-top: 20px;
 }
@@ -352,32 +357,31 @@ span {
 }
 
 
+/* @media screen 1180px*/
+
 @media screen and (max-width: 1180px) {
     p {
         font-size: 0.9rem;
         line-height: 23px;
         letter-spacing: 2px;
     }
+
     /*ABout*/
     .about-me {
-        background-color: #1a191b;
-        width: 100%;
         height: auto;
-        display: flex;
-        justify-content: center;
-        align-items: center;
     }
+
     .about-img {
         width: 400px;
         height: 400px;
     }
-    
+
     .about-box {
         width: 500px;
         height: 400px;
         margin: 50px 5px;
     }
-    
+
     .about-text {
         padding-top: 5px;
         margin-right: 50px;
@@ -387,8 +391,7 @@ span {
         font-size: 2.5rem;
         padding-bottom: 10px;
     }
-    
-    
+
     .about-text p {
         font-size: 1.1rem;
         padding-bottom: 5px;
@@ -401,3 +404,36 @@ span {
 
 }
 
+/* @media screen 768px */
+
+@media screen and (max-width: 768px) {
+    p {
+        font-size: 1.1rem;
+    }
+
+    /*ABout*/
+    .about-me {
+        width: 100%;
+        height: auto;
+        flex-wrap: wrap;
+    }
+
+    .about-img {
+        order: 1;
+    }
+
+    .about-box {
+        width: 600px;
+        height: 600px;
+    }
+
+    .about-text {
+        padding-top: 45px;
+        margin-bottom: -100px;
+        margin-left: 60px;
+    }
+    
+    .about-text p {
+        font-size: 1.2rem;
+    }
+}
