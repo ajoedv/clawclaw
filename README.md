@@ -193,3 +193,42 @@ The site contains two additional pages made to increase usability and make the u
 | Thanks Page             | Confirm of The Form Submission Page                                | When User Submit the Adopt Me Form He Will Taken to Thanks Page         | true   |
 | Responsive              | Right Layout and Size, on Desktop,Tablet and Mobile                | All Pages Elements Are Responsive And Right Sisze On All Devices        | true   |
 
+
+### **Validator Testing**
+
+- HTML - validated using the official W3C Markup Validator. 
+    - Index Page Results<br> ![Screenshot of HTML Validation Results Index](docs/images/html-validator.png)
+    - 404 Page Results<br> ![Screenshot of HTML Validation Results 404](docs/images/html-validator%20-%20404.png)
+    - Thanks Page Results<br> ![Screenshot of HTML Validation Results Thank You](docs/images/html-validator%20-%20thanks.png)
+- CSS - validated using the official W3C Jigsaw CSS Validation Service.
+    - Site Results<br> ![Screenshot of CSS Validation Results](docs/images/css-validator.png)
+
+### **Lighthouse**
+The site has been tested using the Lighthouse function within Chrome Developer Tools for phone and desktop versions.
+- Lighthouse results on index page for desktop version. 
+![Screenshot of Lighthouse results on index page for desktop version](docs/images/lighthouse-homepg-desktop.png)
+- Lighthouse results on index page for phone version. 
+![Screenshot of Lighthouse results on index page for phone version](docs/images/lighthouse-homepg-mobile.png)
+- Lighthouse results on 404 page for desktop version.
+![Screenshot of Lighthouse results on 404 page for desktop version](docs/images/lighthouse-404-desktop.png)
+- Lighthouse results on 404 page for phone version. 
+![Screenshot of Lighthouse results on 404 page for phone version](docs/images/lighthouse-404-mobile.png)
+- Lighthouse results on thanks page for desktop version.
+![Screenshot of Lighthouse results on thanks page for desktop version](docs/images/lighthouse-thankspg-desktop.png)
+- Lighthouse results on thanks page for phone version. 
+![Screenshot of Lighthouse results on thanks page for phone version](docs/images/lighthouse-thankspg-mobile.png)
+
+### **Wave**
+All pages of the site has been tested using the [Wave Web Accessibility Evaluation Tool](https://wave.webaim.org/) to ensure the site is accessible to individuals with impairments.
+
+
+   - Home Page.
+
+![Screenshot of Wave Results](docs/images/wave-homepg.png)
+   - 404 Page.
+   
+![Screenshot of Wave Results](docs/images/wave-404pg.png)
+   - thanks Page.
+   
+![Screenshot of Wave Results](docs/images/wave-thankspg.png)
+
