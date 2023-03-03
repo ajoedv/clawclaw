@@ -269,4 +269,50 @@ The site is full responsive and all features and functions has been tested on th
 The Live Link To The Project Can Be Found Here.
 [ClawClaw](https://ajoedv.github.io/clawclaw/)
 
+## Technologies
+
+- **HTML5** - Used to structure of the site
+- **CSS** - Used to style the site, through a custom made external CSS file
+- **Adobe Photoshope** - Used to Edite the Sylvester photos and the screenshots and 404 photo.
+- **Adobe Illustrator** - Used to design the skeleton and the final design of the site and to desing the lgog.
+- [Gitpod](https://gitpod.io/) - Used to develop the project
+- [GitHub](https://github.com/) - Used to store the code throughout the development
+- [Font Awesome](https://fontawesome.com/) - Used to obtain the  icons found in the site. 
+- [MedibangPRO](https://medibangpaint.com/en/pc/) - Used to sketch the project wireframes as well as developing the color theme for the project
+- [TinyPNG](https://tinypng.com/) - Used to compress image files for faster load times
+- [W3Schools](https://www.w3schools.com/) - For additional information about HTML and CSS.
+- [Educational article](https://medium.com/@lainakarosic/getting-started-with-css-flexbox-basics-58d875a574ce) an article talking about 'Display: flex' written by Laina Karosic.
+
+
+## Credits
+
+### **Content**
+- All text content was created and by me.
+- The using Display Flex inspired by [Educational article](https://medium.com/@lainakarosic/getting-started-with-css-flexbox-basics-58d875a574ce) an article talking about 'Display: flex' written by Laina Karosic.
+- [Code Institute Course](https://codeinstitute.net/) **HTML** Essentials, **CSS** Essentials and 'Love Runing' project. presented all the knowledge needed to implement this project.
+
+### **Media**
+- I am the Owner of the cat's images whihc used on the this project. and the 'Rat's' photo used on 404 page is a free image got it from [FreePic Site](https://www.freepik.com/free-photo/closeup-shot-rats-hands-up_27399014.htm#query=rats&position=2&from_view=search&track=sph) and I edite it on Adobe Photoshop to get the final result what showing on 404 page.
+- All designs and photos editing operations were done on [Adobe](https://www.adobe.com/) licensed versions.
+
+### **Thanks And Gratitude**
+**Big Thanks To:**<br>
+- My family who always provides love and motivation.
+- My course mentor  **Rory Patrick Sheridan**, who has been guiding me through the project with suggestions and helpful information.
+- **Code Institute** community.
+-My family who always provides love and motivation.
+- My course mentor  **Rory Patrick Sheridan**, who has been guiding me through the project with suggestions and helpful information.
+- **Code Institute** community.
+****
+<br>
+
+**(One last note)**<br>
+**Unfortunately Sylvester not with us anymore. Big Thanks To Sylvester. The idea of the site was inspired by previous memories with him**
+<br><br>
+****
+
+<br>
+
+![ٍSylvester](docs/images/Silvester.jpg)
+
 
