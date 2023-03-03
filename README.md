@@ -232,3 +232,31 @@ All pages of the site has been tested using the [Wave Web Accessibility Evaluati
    
 ![Screenshot of Wave Results](docs/images/wave-thankspg.png)
 
+### **Compability**
+The site is full responsive and all features and functions has been tested on the following devices and web browsers:
+
+- iPhone 12 pro max
+    - Google Chrome
+    - Safari
+- iPhone SE/12
+    - Google Chrome
+    - Safari
+- Galaxy Note 20 Ultra
+    - Google Chrome
+    - Samsung Internet
+- Galaxy Note 9 Ultra
+    - Google Chrome
+    - Samsung Internet
+- iPad pro
+    - Google Chrome
+    - Safari
+- Macbook pro
+    - Google Chrome
+    - Safari
+    - Firefox
+- Windows Desktop
+    - Google Chrome
+    - Edge
+    - Firefox
+
+
