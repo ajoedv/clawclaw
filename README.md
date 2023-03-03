@@ -90,7 +90,7 @@ contains most important Sylvester's skills.
 contains contact form with required information to ensure the connection is made.
 
 ### **Skeleton and The Surface plane**
-![Skeleton Design](docs/images/design-skeleton.png)
+![Skeleton and Design](docs/images/design-skeleton.png)
 
 I created design on Adobe Illustrator for the project which being followed by 95%. this design explain the skeleton of the site and in same time it is make the surface plane clear as a final product.
 
@@ -101,4 +101,55 @@ Using black and yellow together means that any negative connotations of either c
 <br><br>
 Font choices was made by doing a search for fonts on google fonts site. my target was to find a clear and readable font and looking good. I chosed *Josefin Sans* i used 700 weight for headings, and for all other bread text i used 400 weight.
 
+## Features
 
+This site is built with a "Desktop size first" and all features scale down to 320px up to any mobile size. <br>
+
+### **Global Features**
+#### **Navbar**
+The navbar is featured on the main page, and on the thanks page that made as a responding to form submit. and also on the 404 page - attached to the top of the pages for easy access and easy readability.
+
+![Screenshot of Navbar](docs/images/navbar.png)
+- Clickable Clawclaw logo linked to the home page.
+- Links to Home, About Me, Skills and Adopt Me Sections.
+
+#### **Footer**
+The footer is featured on every page attached to the bottom of the pages - for easy access and easy readability.
+
+![Screenshot of Footer](docs/images/footer.png)
+- Message from Sylvester to his new family with a promise.and requesting to follow on social media platforms.
+- Links to social media sites Facebook, Instagram and Twitter.
+
+### **Home page Features**
+the site made by one page and many section . each section linked to the navbar to make site navigation easier for the users.<br>
+
+The mixing between the dark background, yelllow and white text. and the inspiring hero image fo Sylvester, users will be interested in exploring the site and reading more about Sylvester.
+
+The page is responsive and turns from a one column based structure on the phone devices to being divided into three columns on larger devices,<br>
+
+#### **Hero Image**
+A hero image is Sylvester's photo in black and white To maintain harmony with the background and theme color of the site.
+![Screenshot of Home Page and Hero Image](docs/images/hero.png)
+
+#### **About-Section**
+The about section contains Sylvester's photo and history of cats with humans and personal information about Sylvester.<br>
+
+![Screenshot of About Me section](docs/images/about-me.png)
+- Giving a title to Sylvester as a hunter and Lover. to show the mix between the strength and kindness and To show the benefit of making him a member of the family.
+- Some words are colored in yellow to highlight the importance, and make it easy to notice.
+- Clarifying the historical relationship between cats and humans and its benefits.
+- some information about Sylvester and what he can do.
+
+#### **Skills**
+![Screenshot of Skills section](docs/images/skills.png)
+- Explanation of most important skills Sylvester has.
+- Three columns contain the three most important Sylvester's skills.
+- added icons that expresses each skill.
+- added a button under each skill linked to Adopt me  section. to make the action of the decision easier to the users.
+
+#### **Adopt Me**
+![Screenshot of Adopt me section](docs/images/contact-form.png)
+- Form that asks the user to submit the family name, e-mail address, and a question to the user if he mind to hug and kiss Sylvester, along with a message to send.
+- All fields are required and the form will not submit unless all are filled in, to be sure to get a meeting with the future family.
+- Reset button to return all fields to their empty starting state.
+- Adopt me button to Submit and send the users informations and message.
