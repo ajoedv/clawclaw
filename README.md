@@ -177,3 +177,19 @@ The site contains two additional pages made to increase usability and make the u
 ### **Future Enhancements**
 - Adding a gallery page of Sylvester's photos.
 - when When Sylvester is adopted and got his new familly, the Site will upgrad to be just a personal website without Adopt me form.
+
+## Testing
+
+### **Feature Testing**
+
+| Category                | Feature                                                            | Expected                                                                | result |
+| ----------------------- |:------------------------------------------------------------------:| -----------------------------------------------------------------------:| ------:|
+| Navbar Logo             | Linkes to the home page                                            | Links Lead to Home Page                                                 | true   |
+| Navbar                  | Links to Home, About Me, My Skills, Adopt Me. and the hover effect | Links Lead To The Home Page And Sections And Hover Working Perfectly    | true   |
+| Footer and Social Icons | Links to Social Media Sites                                        | All Links Lead To The Right Target And Open In New Tab                  | true   |
+| Forms Fields            | Family Name, Email, Sylvester Question, Message                    | All Field Are Required and the Type Of The Filed Required               | true   |
+| Forms Buttons           | Reset Buttons, Adopt me button                                     | Rest Make Fileds Empty And Adopt Me Submit And Send User To Thanks Page | true   |
+| 404 Page                | broken links page                                                  | When User Entering a Brokeb Link He Will Taken to Page 404              | true   |
+| Thanks Page             | Confirm of The Form Submission Page                                | When User Submit the Adopt Me Form He Will Taken to Thanks Page         | true   |
+| Responsive              | Right Layout and Size, on Desktop,Tablet and Mobile                | All Pages Elements Are Responsive And Right Sisze On All Devices        | true   |
+
