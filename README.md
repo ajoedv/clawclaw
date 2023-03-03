@@ -1,5 +1,5 @@
 # ClawClaw
-[Click here to visit the published site.](https://ajoedv.github.io/clawcalw/)
+[Click here to visit the published site.](https://ajoedv.github.io/clawclaw/)
 
 ![Responsive Screenshot Mockup](docs/images/mockup.png)
 
