@@ -1,5 +1,5 @@
 # ClawClaw
-[Click here to visit the published site.](https://ajoedev.github.io/clawcalw/)
+[Click here to visit the published site.](https://ajoedv.github.io/clawcalw/)
 
 ![Responsive Screenshot Mockup](docs/images/mockup.png)
 
@@ -258,5 +258,15 @@ The site is full responsive and all features and functions has been tested on th
     - Google Chrome
     - Edge
     - Firefox
+
+## Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+  * In the GitHub repository, navigate to the settings tab.
+  * From the source section drop-down menu, select the Master Branch.
+  * Once the master branch has been selected, the page provided the link to the completed website.
+
+The Live Link To The Project Can Be Found Here.
+[ClawClaw](https://ajoedv.github.io/clawclaw/)
 
 
