@@ -153,3 +153,27 @@ The about section contains Sylvester's photo and history of cats with humans and
 - All fields are required and the form will not submit unless all are filled in, to be sure to get a meeting with the future family.
 - Reset button to return all fields to their empty starting state.
 - Adopt me button to Submit and send the users informations and message.
+
+### **Other Pages**
+The site contains two additional pages made to increase usability and make the user experience more enjoyable.
+
+#### **404 Page**
+
+![Screenshot of 404 page](docs/images/404.png)
+
+- This page is shown when a user navigates to an unknown/broken page on the site
+- The page contains identical header and footer elements as the sites main pages and also button linked to the home page, so that the user will be able to navigate back to the site without the use of the browser back button.
+- The page showing a funny photo of 404 number and a prisoner rat in the circle of the O letter, with a funny message telling the users that they have ended up on a dangerous zoon where the most dangerous rats were imprisoned/you can go back to the home page
+
+#### **Thank You Page**
+
+![Screenshot of Thank You](docs/images/thanks-page.png)
+
+- This page is shown when a user successfully submits the Adopt me form.
+- The page contains identical header and footer elements as the sites main pages and also button linked to the home page, so that the user will be able to navigate back to the site without the use of the browser back button.
+- The page show Sylvester photo and this message to the user:
+( i appreciate your kindness, very excited and looking forward to meet your family members. we will arrange a lovely meeting soon to know more about each others).
+
+### **Future Enhancements**
+- Adding a gallery page of Sylvester's photos.
+- when When Sylvester is adopted and got his new familly, the Site will upgrad to be just a personal website without Adopt me form.
